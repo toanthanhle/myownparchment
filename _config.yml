@@ -16,9 +16,5 @@ sass:
     sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   absolute-link: ""
  - name: "Bio"
    link: "bio"
