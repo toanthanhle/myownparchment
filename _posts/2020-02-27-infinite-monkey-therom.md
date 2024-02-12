@@ -1,6 +1,6 @@
 ---
 layout: post
-title: my first ever post
+title: 2024-02-13-my-first-ever-post.md
 subtitle: a thing to sacrifice
 tags:
   - math
