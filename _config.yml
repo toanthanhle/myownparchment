@@ -1,9 +1,7 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: Tim Le 🇻🇳
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: "https://toanthanhle.github.io"
+baseurl: "/myownparchment"
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
@@ -21,4 +19,6 @@ navbar:
  - name: "About"
    link: "about"
  - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+   absolute-link: ""
+ - name: "bio"
+
