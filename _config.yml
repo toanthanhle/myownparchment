@@ -20,5 +20,5 @@ navbar:
    link: "about"
  - name: "Resume"
    absolute-link: ""
- - name: "bio"
-
+ - name: "Bio"
+   link: "bio"
